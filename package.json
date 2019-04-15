@@ -1,0 +1,25 @@
+{
+  "name": "lildeck",
+  "version": "1.0.0",
+  "description": "An NPM package that keeps track of all the cards in a single deck",
+  "main": "deck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanThatOneKid/lildeck.git"
+  },
+  "keywords": [
+    "cribbage",
+    "blackjack",
+    "cards",
+    "deck"
+  ],
+  "author": "EthanThatOneKid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanThatOneKid/lildeck/issues"
+  },
+  "homepage": "https://github.com/EthanThatOneKid/lildeck#readme"
+}
