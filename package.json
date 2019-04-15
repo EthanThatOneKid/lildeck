@@ -2,9 +2,9 @@
   "name": "lildeck",
   "version": "1.0.0",
   "description": "An NPM package that keeps track of all the cards in a single deck",
-  "main": "deck.js",
+  "main": "lildeck.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
